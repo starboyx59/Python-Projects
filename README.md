@@ -44,3 +44,8 @@ through text input.
 It responds to user queries using keyword matching 
 and can perform basic tasks like
 arithmetic operations and telling jokes.
+
+
+7.Moka Bot
+Moka Bot is a basic Python chatbot that communicates with users by identifying keywords in their input.
+It can display date, day, patterns, and answer simple questions based on predefined responses.
